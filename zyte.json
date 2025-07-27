@@ -1,0 +1,5 @@
+{
+  "project": "instagram-profiler",
+  "spiders": ["main.py"],
+  "schedule": "manual"
+}
